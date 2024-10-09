@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801523275185",
+    "project_id": "fir-authapp-2eb7b",
+    "storage_bucket": "fir-authapp-2eb7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801523275185:android:30039d54739790782b9990",
+        "android_client_info": {
+          "package_name": "com.softworkshub.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWmW5T51YVVLWVE1TbIRESCxv4wOnJWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
